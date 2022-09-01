@@ -1,0 +1,11 @@
+html5lib
+ipykernel 
+ipympl
+jupyterlab
+jupyterlab_code_formatter
+matplotlib
+nbconvert
+numpy
+pandas
+pandas_datareader
+scipy

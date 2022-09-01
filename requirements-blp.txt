@@ -1,0 +1,4 @@
+-r requirements-dev.txt
+--extra-index-url https://bcms.bloomberg.com/pip/simple/ 
+blpapi
+xbbg
